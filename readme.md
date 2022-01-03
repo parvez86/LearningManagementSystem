@@ -45,12 +45,12 @@ LMS_Features
 =============
 
 
-|Add Instructioor   |Manage Users |Add Tutorials  |
+|Add Instructior   |Manage Users |Add Tutorials  |
 |:---------------:  |:-----------:|:-------:|
 |![add_Instructior]|![manage_users]|![add_tutorials]  |
 
 
-|Instructor Profile   |Learner Quiz   |SignUp Page|
+|Instructor Profile   |  Learner Quiz |  SignUp Page |
 |:-------------------:|:-------------:|:------------:|
 |![instructor_profile]|![learner_quiz]|![signup_page]|
 

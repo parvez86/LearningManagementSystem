@@ -2,7 +2,7 @@
 ![plot](https://github.com/parvez86/LearningManagementSystem/blob/main/static/img/logo.png)  This is a Django e-learning website. This is a complete collection of educational e-learning management systems. On this website, the Deepartment head may join as a superadmin. He can manage teachers, monitor learners, register courses, make announcements and govern the profile of the user. The course teacher of all courses shall be granted the title of "Instructor". In the teacher profile, the instructor may manage the course, course content, create quizzes, assignments, upload class materials, and overall manage all the students enrolled in this course. Students are identified in our system as "learners". They may register for courses, create their profile, take quizzes, study tutorials, read notes, and read the announcements from the instructors and the superadmin. This is truly a complete bundle of e-learning system. All of the educational materials are on one platform on this website.
 
 
-# Documentation of this projects:
+# Documentation of this project:
 - Architecture
 - LMS_Features
 
